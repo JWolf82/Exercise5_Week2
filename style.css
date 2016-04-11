@@ -1,0 +1,10 @@
+#profilePic img {
+    width: 300px;
+    height: 300px;
+    float:left;
+    margin-right: 15px;
+}
+
+.info {
+    width: 100%;
+}
